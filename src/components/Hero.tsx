@@ -9,11 +9,11 @@ export default function Hero() {
         <h1 className="hero-title">
           Hi, I'm
           <br />
-          Vedant ✳
+          Vedant
         </h1>
         <p className="hero-sub">
           Data science student at UCF. I build things with data and write about
-          the process. This site is a work in progress — like me.
+          the process. This site is a work in progress.
         </p>
         <div className="hero-links">
           <a

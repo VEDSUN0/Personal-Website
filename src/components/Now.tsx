@@ -7,8 +7,7 @@ export default function Now() {
       </div>
       <p className="prose now-text">
         Finishing spring semester at UCF, tinkering with a small data project,
-        and reading whatever's on the pile. This section changes monthly —
-        that's the whole point of it.
+        and reading whatever's on the pile. This section changes monthly.
       </p>
     </section>
   )
